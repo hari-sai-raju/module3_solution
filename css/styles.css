@@ -1,0 +1,52 @@
+body{
+	font-size: 15px;
+	
+	
+	font-family: 'Oxygen', sans-serif;
+}
+
+/*header*/
+#header-nav
+{
+	background-color: #4285F4;
+	border-radius: 0;
+	border: 0;
+
+}
+.navbar-brand
+{
+	padding-top: 5px;
+}
+.navbar-brand h1
+{
+	color: #557c3e;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+
+}
+.navbar-brand a:hover, .navbar-brand a:focus
+{
+text-decoration: none;
+}
+#main-section{
+	background-color: #fcae1e;
+}
+#main-section p{
+	padding: 10px;
+}
+.navar-collapse{
+	border: 0;
+}
+#nav-list{
+	background-color: #fcaeee;
+}
+#main-content
+{
+	width: 100%;
+
+	margin-bottom: 25px;
+}
